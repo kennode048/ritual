@@ -1,4 +1,4 @@
-﻿## Installation
+## Installation
 
   
 
@@ -132,6 +132,7 @@ project=hello-world make call-contract
 goto: https://basescan.org/address/0x8d871ef2826ac9001fb2e33fdd6379b6aabf449c#writeContract
 ```
 First, make sure you’re using the same Web3 wallet (like MetaMask) connected to your _config.json_ file. For registration, input your wallet’s public address into the “node (address)” field of the “registerNode” function and confirm the transaction. **After waiting for 1 hour**, proceed to activate your node using the “activateNode” function. This process is important for integrating your node with the network.
+![enter image description here](https://raw.githubusercontent.com/kennode048/ritual/main/5.png)
 ```bash
 goto: https://basescan.org/address/{your wallet address}
 ```
@@ -142,4 +143,3 @@ Check your wallet transactions with 2 method `Activate Node` and `Register Node`
 docker logs -f deploy-node-1
 ```
 ![enter image description here](https://raw.githubusercontent.com/kennode048/ritual/main/4.png)
-
