@@ -48,7 +48,8 @@ docker ps
 ```
 
 **5. Change The Configuration**
-Ensuring your wallet has around $5 of ETH on the Base chain for transactions.
+
+***Ensuring your wallet has around $5 of ETH on the Base chain for transactions.***
 ```bash
 goto: https://dashboard.alchemy.com/apps
 ```
