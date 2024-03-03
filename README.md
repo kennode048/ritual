@@ -144,3 +144,6 @@ Check your wallet transactions with 2 method `Activate Node` and `Register Node`
 docker logs -f deploy-node-1
 ```
 ![enter image description here](https://raw.githubusercontent.com/kennode048/ritual/main/4.png)
+
+
+Congratulations! 🎉 You have successfully created an on-chain subscription request!
