@@ -41,8 +41,8 @@ cd infernet-container-starter
 **4. Run the hello-world container**
 ```bash
 project=hello-world make deploy-container
-
-ctr+C
+# wait for the installation process to complete, then pressing
+CTRL + C
 
 docker ps
 ```
